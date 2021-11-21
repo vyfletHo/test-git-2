@@ -28,3 +28,6 @@ console.log('Hello world')
 // проверяет почту пользователя ( у меня не работает)
 // чтобы изменить email нужно ввести:
 // git config user.email "новый email"
+
+// git pull origin master отправить данные с гитхаба на комп
+
