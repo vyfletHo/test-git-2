@@ -14,3 +14,10 @@
  +    <h1>Test-GIT-2</h1> -->
 
  <!-- git reset --hard возвращает удаленные файлы(строки)(отменяет) -->
+
+<!--
+ ветки
+master
+develop
+feature/main-page
+feature/about-company -->
