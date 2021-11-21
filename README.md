@@ -21,3 +21,5 @@ master
 develop
 feature/main-page
 feature/about-company -->
+
+<!-- git checkout (имя ветки) переключение с одной ветки на другую -->
