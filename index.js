@@ -1,4 +1,12 @@
-console.log('Hello world')
+console.log('Hello World')
+
+const age = 20
+if (age >= 18) {
+    console.log('Вы совершеннолетний')
+} else {
+    console.log('Вы НЕ совершеннолетний')
+}
+
 
 // 1 способ Скачивание репозитория на компьютер
 
@@ -33,3 +41,13 @@ console.log('Hello world')
 
 // git pull origin master отправить данные с гитхаба на комп
 
+
+// // master
+
+// console.log('Hello World')
+
+// // develop
+
+// console.log('Hello JavaScript')
+
+// // develop -> master
